@@ -1,6 +1,6 @@
 # Sokoban
 
-Sokoban is a puzzle game where the objective is to move 'blocks' to designated 
+Sokoban is a puzzle game where the objective is to move 'blocks' to designated spots on the map
 
 1. Outline of game map
 
